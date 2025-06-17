@@ -1,15 +1,23 @@
 # Floating-point-FMA
 
 **This is my half precision (16 bits) fused floating point multiplier and adder. It was programmed in SystemVerilog and contain the following functional units below:**
+
 **It passed 80000 test cases from Berkeley SoftFloat to confront to the IEEE Standard for Floating-Point Arithmetic**
 
 •Unpack unit
+
 •Multiplier
+
 •Pre-shifter
+
 •Alignment unit
+
 •Adder
+
 •Normalizer
+
 •Rounding
+
 •Special case handler
 
 ![Screenshot 2025-06-16 224931](https://github.com/user-attachments/assets/953f6e06-1177-4539-8dc3-d900e1f20394)
